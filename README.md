@@ -447,9 +447,9 @@ Nếu có vấn đề khi chạy code, vui lòng kiểm tra:
 4. File config.py có detect đúng môi trường không
 
 ## Thành viên
-23122009 Bàng Mỹ Linh
-23122018 Lại Nguyễn Hồng Thanh
-23122019 Phan Huỳnh Châu Thịnh
-23122029 Nguyễn Trọng Hòa
+* 23122009 | Bàng Mỹ Linh
+* 23122018 | Lại Nguyễn Hồng Thanh
+* 23122019 | Phan Huỳnh Châu Thịnh
+* 23122029 | Nguyễn Trọng Hòa
 
 
